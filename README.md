@@ -1,12 +1,16 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=B4DAC0&height=200&section=header&text=Seoyeon%20Lee&desc=&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B4DAC0&height=150&section=header" />
 
 
-🌊 **성장하는 백엔드 개발자 이서연입니다**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=4000&pause=3000&color=0EB15D&random=false&width=750&lines=%E2%80%9CIn+theory%2C+theory+and+practice+are+the+same.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=8000&pause=3000&color=0EB15D&random=false&width=750&lines=++In+practice%2C+they%E2%80%99re+not.%E2%80%9D)](https://git.io/typing-svg)
 
+🌊 **성장하는 백엔드 개발자 이서연입니다**  🌊
 
+<br/>
 
-## Skills
+##  🧰 Skills
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
