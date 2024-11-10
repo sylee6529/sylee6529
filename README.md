@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=4000&pause=3000&color=0EB15D&random=false&width=750&lines=%E2%80%9CIn+theory%2C+theory+and+practice+are+the+same.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=8000&pause=3000&color=0EB15D&random=false&width=750&lines=++In+practice%2C+they%E2%80%99re+not.%E2%80%9D)](https://git.io/typing-svg)
 
-## 🌊  **Backend Developer, Seoyeon Lee**  🌊
+## 🌊  **Web Developer, Seoyeon Lee**  🌊
 
 |Experience|Period|
 |:---|:---|
